@@ -1,0 +1,47 @@
+.loader {
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.container {
+  width: 600px;
+  height: 200px;
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+  margin-left: 20% !important;
+  margin-right: 20% !important;
+}
+
+.item {
+  padding: 1.5vh;
+  margin: 4px;
+  flex: 0 1 calc(20% - 8px);
+}
+
+.container-img {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-right-text {
+  position: absolute;
+  bottom: 8px;
+  right: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  padding-top: 10px;
+  background-color: royalblue;
+}
+
+.margin-top-title {
+  margin-top: 2vh;
+}
+
+.img-width-height {
+  width: 250px;
+  height: 220px;
+  padding: 0.1rem;
+  padding-right: 0.4rem !important;
+}

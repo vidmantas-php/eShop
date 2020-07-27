@@ -1,0 +1,26 @@
+
+
+.menu-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-container-margin {
+  margin: 10px 5px;
+}
+
+.menu-text-align-right {
+  text-align: right;
+}
+
+.menu-container-margin a {
+  margin: 5px 5px 5px 10px;
+  color: #004d99;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.selected {
+  color: #1575d0;
+  text-decoration: underline;
+}

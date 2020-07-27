@@ -1,0 +1,14 @@
+.error {
+  color:red;
+  font-weight: 900;
+}
+
+.form-center-column {
+  display: flex;
+  FLEX-DIRECTION: column;
+  align-items: center;
+}
+
+.button-margin {
+  margin: 10px !important;
+}

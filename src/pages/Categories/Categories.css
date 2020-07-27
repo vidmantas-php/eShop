@@ -1,0 +1,10 @@
+.categories-center {
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 6% !important;
+}
+
+.list-color {
+    width: 20rem !important;
+    background-color: aliceblue !important;
+}

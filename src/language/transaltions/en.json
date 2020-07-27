@@ -1,0 +1,60 @@
+{
+  "common": {
+    "title": "Title",
+    "description": "Description",
+    "price": "Price",
+    "addToCart": "Add To Cart",
+    "update": "Update",
+    "delete": "Delete",
+    "emptyCart": "Your cart is empty!",
+    "total": "Total",
+    "checkout": "Check Out",
+    "quantity": "Quantity",
+    "noOrders": "You have no orders yet :("
+  },
+  "menu": {
+    "login": "Login",
+    "logout": "Logout",
+    "productForm": "New Product", 
+    "products": "Product List",
+    "category": "Category",
+    "orders": "Orders",
+    "cart": "My Cart",
+    "username": "Username",
+    "password": "Password"
+  },
+  "validations": {
+    "default": "Field is not valid",
+    "required": "Field \"$t({{label}})\" is required",
+    "typeError": "Bad value type",
+    "numberMin": "Value of \"$t({{label}})\" must be bigger than {{min}}"
+  },
+
+  "title": {
+    "ourProducts": "Our Products",
+    "price": "Price:"
+  },
+
+  "footer": {
+    "rights": "All rights reserved"
+  },
+
+  "categories": {
+    "Elektronika": "Electronics",
+    "Irankiai": "Tools",
+    "Telefonai": "Mobiles",
+    "Knygos": "Books"
+  },
+
+  "popup": {
+    "hi": "Welcome to our eShop!",
+    "news": "News",
+    "col": "New categories added;"
+  },
+
+  "accountForm": {
+    "accountSettings": "Your Account Settings",
+    "update": "Update",
+    "productFrom": "Product Form"
+    }
+}

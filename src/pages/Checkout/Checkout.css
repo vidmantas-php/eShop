@@ -1,0 +1,22 @@
+.checkout-container {
+    margin-left: 18% !important;
+    margin-right: 18% !important;
+    padding-bottom: 80px;
+}
+
+.empty-cart-center {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    padding-top: 5%;
+}
+
+
+.quantity {
+    display: flex;
+}
+
+.qnt-paddings {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}

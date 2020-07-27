@@ -1,0 +1,19 @@
+*, html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.align-center-display-flex-logo-name {
+    display: flex;
+    align-items: center;
+}
+
+.logo-margin-right-5px {
+    margin-right: 5px;
+}
+
+.color-white-button {
+    color: white !important;
+}
+

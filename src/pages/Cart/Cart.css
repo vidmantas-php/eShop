@@ -1,0 +1,16 @@
+.cart-img {
+  width: 150px;
+  height: 100px;
+}
+
+.cart-container {
+  margin-left: 18% !important;
+  margin-right: 18% !important;
+}
+
+.empty-cart-center {
+  display: flex;
+  justify-content: center;
+  font-size: xxx-large;
+  padding-top: 5%;
+}

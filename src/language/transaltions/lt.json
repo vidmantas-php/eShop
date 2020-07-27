@@ -1,0 +1,62 @@
+{
+  "common": {
+    "title": "Pavadinimas",
+    "description": "Aprašymas",
+    "price": "Kaina",
+    "addToCart": "Į Krepšelį",
+    "update": "Atnaujinti",
+    "delete": "Ištrinti",
+    "emptyCart": "Krepšelis Tuščias!",
+    "total": "Viso",
+    "checkout": "Atsiskaityti",
+    "quantity": "Kiekis",
+    "noOrders": "Nieko Neužsisakėte :("
+  },
+  "menu": {
+    "login": "Prisijungti",
+    "logout": "Atsijungti",
+    "productForm": "Naujas Produktas",
+    "products": "Produktų sąrašas",
+    "category": "Kategorija",
+    "orders": "Užsakymai",
+    "cart": "Krepšelis",
+    "username": "Vartotojas",
+    "password": "Slaptažodis"
+  },
+  "validations": {
+    "default": "Laukas yra nevalidus",
+    "required": "Laukas \"$t({{label}})\" yra privalomas",
+    "typeError": "Blogas reikšmės tipas",
+    "numberMin": "Lauko \"$t({{label}})\" reikšmė privalo būti didesnė nei {{min}}"
+  },
+
+  "title": {
+    "ourProducts": "Mūsų Produktai",
+    "price": "Kaina:"
+  },
+
+  "footer": {
+    "rights": "Visos teisės saugomos"
+  },
+
+  "categories": {
+    "Elektronika": "Elektronika",
+    "Irankiai": "Įrankiai",
+    "Telefonai": "Telefonai",
+    "Knygos": "Knygos"
+  },
+
+  "popup": {
+    "hi": "Sveiki atvykę į mūsų eShop!",
+    "news": "Naujienos",
+    "col": "Pridėtos naujos kategorijos;"
+  },
+
+  "accountForm": {
+    "accountSettings": "Jūsų duomenys",
+    "update": "Atnaujinti",
+    "productFrom": "Produkto Forma"
+  }
+
+
+}
